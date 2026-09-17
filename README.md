@@ -20,7 +20,7 @@ VisionCLI is a lightweight, terminal-native computer vision toolkit implemented 
 
 ### Steps to install & run the project
 1. Clone this repository to your local machine using Git:
-   `git clone https://github.com/your-username/your-repo-name.git`
+   `git clone https://github.com/your-username/24BAC10009_CSE3010-Computer-Vision-Vityarthi-Course-Project.git`
 2. Navigate into the project directory:
    `cd your-repo-name`
 3. Install the required dependencies by running:
@@ -37,8 +37,3 @@ VisionCLI is a lightweight, terminal-native computer vision toolkit implemented 
 4. When prompted by the menu, enter `1`, `2`, or `3` to select a processing module.
 5. Type the exact filename of your test image (e.g., `test_image.jpg`) and press Enter.
 6. The terminal will print a confirmation message. Navigate to the newly generated `outputs/` folder to view the processed image.
-
-### Screenshots
-![Terminal Execution](path/to/terminal_screenshot.png)
-
-![Output Result](path/to/output_image_screenshot.png)
