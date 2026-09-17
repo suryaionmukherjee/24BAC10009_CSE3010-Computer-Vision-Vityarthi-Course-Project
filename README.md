@@ -20,7 +20,7 @@ VisionCLI is a lightweight, terminal-native computer vision toolkit implemented 
 
 ### Steps to install & run the project
 1. Clone this repository to your local machine using Git:
-   `git clone https://github.com/your-username/24BAC10009_CSE3010-Computer-Vision-Vityarthi-Course-Project.git`
+   `git clone https://github.com/suryaionmukherjee/24BAC10009_CSE3010-Computer-Vision-Vityarthi-Course-Project.git`
 2. Navigate into the project directory:
    `cd 24BAC10009_CSE3010-Computer-Vision-Vityarthi-Course-Project`
 3. Install the required dependencies by running:
